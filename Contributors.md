@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Fiza](https://github.com/fiza0786)
 - [Ritesh](https://github.com/codespirit7/)
 - [Sabarinath](https://github.com/Sabari-nath-p)
 - [Prashanth Kumar](https://github.com/PrashanthKumar0)
@@ -1414,6 +1415,5 @@
 - [Ryan Ranaut](https://github.com/RYANRANAUT)
 - [Robin Gupta](https://github.com/its-bruce)
 - [Ishita](https://github.com/ishita-kundi04)
-
 
 <!-- prettier-ignore-end -->
